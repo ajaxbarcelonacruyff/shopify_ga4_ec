@@ -1,6 +1,10 @@
 
 # Setting Up Enhanced E-commerce in Google Analytics for Shopify
 
+ > [!NOTE]
+ > This article is current as of January 2021. For the latest information, please check the official website.
+
+
 Shopify makes setting up Google Analytics very simple. Even tasks that are generally complicated, such as configuring Enhanced E-commerce, can be done in no time. This is highly recommended for anyone using Shopify.
 
 ## How to Set Up Google Analytics
